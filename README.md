@@ -1,5 +1,5 @@
 # UFOs
-module_12
+
 
 ## Overview of Project
 Dana is a data journalist that has been given the opportunity to write about the UFO sightings in her hometown of McMinnville, Oregon.  She has a Javascript file full of sightings from all over North America and wants to use this data to support her online article.  To do this, she would like the data displayed in a table where users could easily use filters to narrow down the data to their selected areas of interest.
